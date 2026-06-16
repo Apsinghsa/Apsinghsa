@@ -10,7 +10,7 @@ Full-stack developer building AI-powered tools and web applications.
 
 **Backend:** Node.js, Express, Flask
 
-**Databases:** Supabase, ChromaDB
+**Databases:** MongoDB, Supabase, ChromaDB
 
 **AI/ML:** Google Gemini API, Groq, RAG pipelines
 
