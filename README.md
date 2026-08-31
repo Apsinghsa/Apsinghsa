@@ -10,7 +10,7 @@ Full-stack developer building AI-powered tools and web applications.
 
 **Backend:** Node.js, Express
 
-**Databases:** MongoDB, Supabase, ChromaDB
+**Databases:** MongoDB, Supabase, PostgreSQL
 
 **AI/ML:** RAG pipelines
 
