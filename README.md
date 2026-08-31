@@ -36,9 +36,9 @@ AI-powered README generator. Paste a GitHub repo URL and get a professional READ
 
 ### [URL Shortener Pro](https://github.com/Apsinghsa/url-shortner-pro)
 
-Full-stack URL shortener with analytics and MCP server — *coming soon*.
+Full-stack MERN URL shortener with click analytics and a JWT-secured MCP server. Shorten URLs anonymously, track per-link clicks from a personal dashboard, and let AI agents shorten URLs and read your stats via stdio or HTTP.
 
-`JavaScript` `Full-Stack`
+`MongoDB` `Express` `React` `Node.js` `MCP`
 
 ## 🌱 Currently Learning
 
