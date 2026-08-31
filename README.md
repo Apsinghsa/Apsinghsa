@@ -8,11 +8,11 @@ Full-stack developer building AI-powered tools and web applications.
 
 **Frontend:** React, Vite, Tailwind CSS
 
-**Backend:** Node.js, Express, Flask
+**Backend:** Node.js, Express
 
 **Databases:** MongoDB, Supabase, ChromaDB
 
-**AI/ML:** Google Gemini API, Groq, RAG pipelines
+**AI/ML:** RAG pipelines
 
 ## 📌 Featured Projects
 
