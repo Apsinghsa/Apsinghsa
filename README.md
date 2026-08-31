@@ -12,7 +12,9 @@ Full-stack developer building AI-powered tools and web applications.
 
 **Databases:** MongoDB, Supabase, PostgreSQL
 
-**AI/ML:** RAG pipelines
+**AI/Agents:** RAG pipelines, MCP
+
+**DevOps:** Docker
 
 ## 📌 Featured Projects
 
