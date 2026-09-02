@@ -18,17 +18,11 @@ Full-stack developer building AI-powered tools and web applications.
 
 ## 📌 Featured Projects
 
-### [CritiqueAI](https://github.com/Apsinghsa/critiqueai)
+### [URL Shortener Pro](https://github.com/Apsinghsa/url-shortner-pro)
 
-AI-powered answer evaluation tool for students. Upload answers and get instant grading, feedback, note generation, and roadmap creation — all powered by Gemini AI.
+Full-stack MERN URL shortener with click analytics and a JWT-secured MCP server. Shorten URLs anonymously, track per-link clicks from a personal dashboard, and let AI agents shorten URLs and read your stats via stdio or HTTP.
 
-`React` `Flask` `Supabase` `Gemini API`
-
-### [Context Compression Module](https://github.com/Apsinghsa/Context-Compression-Module)
-
-A plug-and-play context compression system that teaches AI agents what to remember, what to forget, and what to re-inject. Reduces token usage by ~87% while maintaining accuracy.
-
-`Python` `ChromaDB` `Groq` `RAG`
+`MongoDB` `Express` `React` `Node.js` `MCP`
 
 ### [MakeReadme](https://github.com/Apsinghsa/makereadme)
 
@@ -36,11 +30,17 @@ AI-powered README generator. Paste a GitHub repo URL and get a professional READ
 
 `React` `Node.js` `Gemini API`
 
-### [URL Shortener Pro](https://github.com/Apsinghsa/url-shortner-pro)
+### [Low-CT Scan Denoising](https://github.com/Apsinghsa/Low-CT-Scan-Denoising)
 
-Full-stack MERN URL shortener with click analytics and a JWT-secured MCP server. Shorten URLs anonymously, track per-link clicks from a personal dashboard, and let AI agents shorten URLs and read your stats via stdio or HTTP.
+Anatomy-aware low-dose CT denoising — a two-stage deep learning system that removes noise while preserving the anatomical boundaries radiologists rely on, using organ-specific denoising strategies.
 
-`MongoDB` `Express` `React` `Node.js` `MCP`
+`Python` `PyTorch` `Deep Learning` `Medical Imaging`
+
+### [Excalidraw WebMCP](https://github.com/Apsinghsa/excalidraw-webmcp)
+
+Agent-native whiteboard built with Excalidraw and WebMCP. AI agents can read the canvas, add and update elements, and arrange layouts through MCP tools.
+
+`TypeScript` `Excalidraw` `WebMCP` `MCP`
 
 ## 🌱 Currently Learning
 
