@@ -44,6 +44,6 @@ Agent-native whiteboard built with Excalidraw and WebMCP. AI agents can read the
 
 ## 🌱 Currently Learning
 
-Full-stack development — building more complex, production-ready applications.
+Backend engineering and Go — building more complex, production-ready applications.
 
 ---
